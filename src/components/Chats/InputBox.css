@@ -1,0 +1,23 @@
+.inputBox {
+    display: flex;
+    padding: 5px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border: 1px solid lightgray;
+}
+
+.inputBox__text {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.inputBox__button {
+    border: none;
+    background-color: white;
+    font-weight: bolder;
+    color: #fd4f67;
+    margin-right: 20px;
+}

@@ -1,0 +1,27 @@
+.chatScreen_message {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.chatScreen__text {
+    margin-left: 10px;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.chatScreen__matched {
+    text-align: center;
+    color: gray;
+    padding: 10px;
+}
+
+.chatScreen__myText {
+    margin-left: auto;
+    background-color: #29b3cd;
+    padding: 15px;
+    border-radius: 30px;
+    color: white;
+
+}
